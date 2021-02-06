@@ -3,7 +3,7 @@
 
 ## Leaf Explorer - *In Action*
 
-#### App Demo : [httgoogskp://sendvid.com/b2hhc1pi](http://sendvid.com/b2hhc1pi)<br>
+#### App Demo : [https://play.google.com/store/apps/details?id=com.leaf.explorer](https://play.google.com/store/apps/details?id=com.leaf.explorer)<br>
 
 <p align="center">
 ### Home Page
