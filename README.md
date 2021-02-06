@@ -3,18 +3,19 @@
 
 ## Leaf Explorer - *In Action*
 
-#### App Demo : [http://sendvid.com/b2hhc1pi](http://sendvid.com/b2hhc1pi)<br>
+#### App Demo : [httgoogskp://sendvid.com/b2hhc1pi](http://sendvid.com/b2hhc1pi)<br>
 
 <p align="center">
+### Home Page
   <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/PicsArt_12-30-08.55.47.jpg" width = "300">
   <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/PicsArt_12-28-05.22.30.jpg" width = "300">
   <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/PicsArt_12-28-05.19.27.jpg" width = "300">
   <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/PicsArt_12-28-05.24.50.jpg" width = "300">
-  <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/PicsArt_12-30-08.55.47.jpg" width = "300">
+  <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/PicsArt_12-28-05.29.55.jpg" width = "300">
   <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/PicsArt_12-28-05.32.43.jpg" width = "300">
 </p>
 
 
 
-## License
+## License 
 Leaf Explorer is under `CC BY-NC-SA` license.
