@@ -10,7 +10,7 @@ Once payment successfully received, you'll get the requested products source cod
 Incase, you are in hurry, missed or not received any response from our end in time, feel free to drop an email to team75051@gmail.com and we'll look into the matter ASAP.
 
 **Is there a refund policy?**
-Sorry we don't have any refund policy as source codes can't be provided for tests, instead you can check the **demo apps** provided with the release package to decide what product/service you want.
+Sorry we don't have any refund policy as source codes can't be provided for tests, instead you can check the **demo apps** provided on [Google Play Store](https://play.google.com/store/apps/details?id=com.leaf.explorer)</br> to decide what product/service you want.
 
 ##### PayPal :- [*$49* with PayPal](http://paypal.me/premium813)</br>
 ##### UPI id :- leafexplorer-github@ybl 
