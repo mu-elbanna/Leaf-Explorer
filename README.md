@@ -22,7 +22,7 @@ Sorry we don't have any refund policy as source codes can't be provided for test
 #### App Demo : [https://play.google.com/store/apps/details?id=com.leaf.explorer](https://play.google.com/store/apps/details?id=com.leaf.explorer)<br>
 
 ### Join Telegram
-Get all Available updates of Leaf Explorer Source Code via Telegram Channel.
+Get all Available updates of **Leaf Explorer Source Code** via Telegram Channel.
 ##### [Join Telegram channel](https://t.me/LeafExplorer)</br>
 
 
