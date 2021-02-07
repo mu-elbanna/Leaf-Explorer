@@ -32,19 +32,27 @@ Sorry we don't have any refund policy as source codes can't be provided for test
 |:---:|:---:|
 | Home | Send Files |
 
-
-
-
-
 | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/PicsArt_12-28-05.19.27.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/PicsArt_12-28-05.24.50.jpg" width = "300"/> |
 |:---:|:---:|
 | File Manager | Web Share |
 
-
-
-
-
-
 | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/PicsArt_12-28-05.29.55.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/PicsArt_12-28-05.32.43.jpg" width = "300"/>|
 |:---:|:---:|
 | Send Files | Navigation |
+
+
+## Features
+- [x] Standard File Manager.
+- [x] File Share (Via Wi-Fi Connection with Browser).
+- [x] Search Files.
+- [x] Sort Files.
+- [x] Show/Hide Hidden files.
+- [x] Copy/Move/Paste Files.
+- [x] Delete Files/Folders.
+- [x] Rename Files/Folders.
+- [x] Text Editor.
+
+
+## ✨ Donation Features
+
+
