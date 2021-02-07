@@ -19,11 +19,11 @@ Sorry we don't have any refund policy as source codes can't be provided for test
 ##### PayPal Clean Method
 <a href="http://paypal.me/premium813" target="_blank" title="Buy me a Coffee"><img width="150" style="border:0px;width:150px;display:block;margin:0 auto" src="https://github.com/mjbdl/Premium-SmartWebView/blob/master/app/donate-now-button-n-dim-300x162.jpg" border="0" alt="Donate to get Leaf Explorer Source Code" /></a>
 
-
-
-
 #### App Demo : [https://play.google.com/store/apps/details?id=com.leaf.explorer](https://play.google.com/store/apps/details?id=com.leaf.explorer)<br>
 
+### Join Telegram
+Get all Available updates of Leaf Explorer Source Code via Telegram Channel.
+##### [Join Telegram channel](https://t.me/LeafExplorer)</br>
 
 
 ### Leaf Explorer screen
@@ -47,8 +47,3 @@ Sorry we don't have any refund policy as source codes can't be provided for test
 | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/PicsArt_12-28-05.29.55.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/PicsArt_12-28-05.32.43.jpg" width = "300"/>|
 |:---:|:---:|
 | Send Files | Navigation |
-
-
-
-## License 
-Leaf Explorer is under `CC BY-NC-SA` license.
