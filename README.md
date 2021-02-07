@@ -12,16 +12,7 @@ Incase, you are in hurry, missed or not received any response from our end in ti
 **3. Is there a refund policy?**
 Sorry we don't have any refund policy as source codes can't be provided for tests, instead you can check the **demo apps** provided on [Google Play Store](https://play.google.com/store/apps/details?id=com.leaf.explorer)</br> to decide what product/service you want.
 
-##### PayPal :- [*$49* with PayPal](http://paypal.me/premium813)</br>
-
-```html
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="Y9WBQPX2RRSCL">
-<input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
-</form>
-```
+##### PayPal :- [*$49* with PayPal](https://try-tolearn.blogspot.com/2021/02/paypal-for-leaf-explorer.html)</br>
 
 ##### UPI id :- leafexplorer-github@ybl 
      *Donate (₹3500) with UPI.*
