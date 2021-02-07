@@ -13,7 +13,7 @@ Incase, you are in hurry, missed or not received any response from our end in ti
 Sorry we don't have any refund policy as source codes can't be provided for tests, instead you can check the **demo apps** provided with the release package to decide what product/service you want.
 
 ##### PayPal :- [*$49* with PayPal](http://paypal.me/premium813)</br>
-##### UPI id :- [leafexplorer-github@ybl  :-*₹3500*](leafexplorer-github@ybl)</br>
+##### UPI id :- leafexplorer-github@ybl  (*₹3500*)
 
 <a href="http://paypal.me/premium813" target="_blank" title="Buy me a Coffee"><img width="150" style="border:0px;width:150px;display:block;margin:0 auto" src="https://github.com/mjbdl/Premium-SmartWebView/blob/master/app/donate-now-button-n-dim-300x162.jpg" border="0" alt="Donate to get Leaf Explorer Source Code" /></a>
 
