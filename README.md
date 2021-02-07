@@ -3,13 +3,13 @@
 
 ## Leaf Explorer - *In Action*
 #### Donate *$49* to get Source Code. [For India Donate *₹3500* via *UPI method*]
-** 1. When will I receive the source code?**
+**1. When will I receive the source code?**
 Once payment successfully received, you'll get the requested products source code archive within 24 hours on the email address you provided during transaction/reference.
 
-** 2. What if product is late or I need it urgently?**
+**2. What if product is late or I need it urgently?**
 Incase, you are in hurry, missed or not received any response from our end in time, feel free to drop an email to team75051@gmail.com and we'll look into the matter ASAP.
 
-** 3. Is there a refund policy?**
+**3. Is there a refund policy?**
 Sorry we don't have any refund policy as source codes can't be provided for tests, instead you can check the **demo apps** provided on [Google Play Store](https://play.google.com/store/apps/details?id=com.leaf.explorer)</br> to decide what product/service you want.
 
 ##### PayPal :- [*$49* with PayPal](http://paypal.me/premium813)</br>
