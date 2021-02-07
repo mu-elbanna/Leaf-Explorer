@@ -42,7 +42,7 @@ Sorry we don't have any refund policy as source codes can't be provided for test
 
 
 ## Features
-- [x] Supported Devices *Android Lolipop* to *Android 10(Q)*.
+- [x] Supported Devices *Android Lollipop* to *Android 10(Q)* **And Above**.
 - [x] Standard File Manager.
 - [x] File Share (Via Wi-Fi Connection with Browser).
 - [x] Search Files.
