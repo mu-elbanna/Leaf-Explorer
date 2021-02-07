@@ -1,7 +1,10 @@
 # Leaf-Explorer
-### Best Android File Manager With File Share and Text Editor.
+##### Best Android File Manager With File Share and Text Editor.
 
 ## Leaf Explorer - *In Action*
+
+<a href="http://paypal.me/premium813" target="_blank" title="Buy me a Coffee"><img width="150" style="border:0px;width:150px;display:block;margin:0 auto" src="https://github.com/mjbdl/Premium-SmartWebView/blob/master/app/donate-now-button-n-dim-300x162.jpg" border="0" alt="Donate " /></a>
+
 
 #### App Demo : [https://play.google.com/store/apps/details?id=com.leaf.explorer](https://play.google.com/store/apps/details?id=com.leaf.explorer)<br>
 
