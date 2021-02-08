@@ -64,5 +64,4 @@ Sorry we don't have any refund policy as source codes can't be provided for test
 
 
 **No official Support Available**
-##### Report your [issues](https://github.com/Shiv-Shambhu/Leaf-Explorer/issues) here.
-
+#### Report your [issues](https://github.com/Shiv-Shambhu/Leaf-Explorer/issues) here.
