@@ -56,5 +56,13 @@ Sorry we don't have any refund policy as source codes can't be provided for test
 
 
 ## ✨ Donation Features
+- [x] get **Source Code** within ⏰ 24 hours on the email address provided by you.
+- [x] **Free** + **Premium** Update.
+- [x] Update Details Via **Telegram Channel**.
+- [x] Regular Bug Fixes.
 
+
+
+**No official Support Available**
+##### Report your [issues](https://github.com/Shiv-Shambhu/Leaf-Explorer/issues) here.
 
