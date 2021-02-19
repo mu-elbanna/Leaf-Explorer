@@ -49,7 +49,8 @@ Sorry we don't have any refund policy as source codes can't be provided for test
 ## Features
 - [x] Supported Devices *Android Lollipop* to *Android 10(Q)* **And Above**.
 - [x] Standard File Manager.
-- [x] File Share (Via Wi-Fi Connection with Browser).
+- [x] File Share (like SHAREit).
+- [x] File PC Share (Via Wi-Fi Connection with Browser).
 - [x] Search Files.
 - [x] Sort Files.
 - [x] Show/Hide Hidden files.
