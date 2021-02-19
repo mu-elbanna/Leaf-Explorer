@@ -29,15 +29,19 @@ Sorry we don't have any refund policy as source codes can't be provided for test
 
 
 ### Leaf Explorer screen
-| <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/PicsArt_12-30-08.55.47.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/PicsArt_12-28-05.22.30.jpg" width = "300"/> |
+| <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/home_page.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/PicsArt_12-28-05.22.30.jpg" width = "300"/> |
 |:---:|:---:|
 | Home | Send Files |
+
+| <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/send_file.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/receive.jpg" width = "300"/>|
+|:---:|:---:|
+| Send Files | Receive Files |
 
 | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/PicsArt_12-28-05.19.27.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/PicsArt_12-28-05.24.50.jpg" width = "300"/> |
 |:---:|:---:|
 | File Manager | Web Share |
 
-| <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/PicsArt_12-28-05.29.55.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/PicsArt_12-28-05.32.43.jpg" width = "300"/>|
+| <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/PicsArt_12-28-05.29.55.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/navigation_srawer.jpg" width = "300"/>|
 |:---:|:---:|
 | Send Files | Navigation |
 
