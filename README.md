@@ -3,7 +3,7 @@
 
 ## Leaf Explorer - *In Action*
 
-Current Version : [V-1.11.30 {Download for Free}]()<br>
+Free Version : [V-1.11.30 {Download for Free}]()<br>
 
 New Version : [V-1.15.35 【Download Now】](https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/V-1.15.35.MD)<br>
 
