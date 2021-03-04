@@ -19,7 +19,7 @@ New Version : [V-1.15.35 【Download Now】](https://github.com/Shiv-Shambhu/Lea
 ##### [Join Telegram channel](https://t.me/LeafExplorer)</br>
 
 
-### Leaf Explorer screen
+### Leaf Explorer screen (Free Version)
 | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/home_page.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/PicsArt_12-28-05.22.30.jpg" width = "300"/> |
 |:---:|:---:|
 | Home | Send Files |
@@ -37,7 +37,7 @@ New Version : [V-1.15.35 【Download Now】](https://github.com/Shiv-Shambhu/Lea
 | Send Files | Navigation |
 
 
-## Features
+## Features (Free Version)
 - [x] Supported Devices *Android Lollipop* to *Android 10(Q)* **And Above**.
 - [x] Standard File Manager.
 - [x] File Share (like SHAREit).
