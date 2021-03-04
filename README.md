@@ -5,13 +5,13 @@
 
 Free Version : [V-1.11.30 {Download for Free}]()<br>
 
-New Version : [V-1.15.35 【Download Now】](https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/V-1.15.35.MD)<br>
+New Version : [V-1.15.35 【Download Now】](https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/V-1.15.35.MD)<br> Coming Soon
 
 
 ##### PayPal Clean Method [Donate]
 <a href="http://paypal.me/premium813" target="_blank" title="Buy me a Coffee"><img width="150" style="border:0px;width:150px;display:block;margin:0 auto" src="https://github.com/mjbdl/Premium-SmartWebView/blob/master/app/donate-now-button-n-dim-300x162.jpg" border="0" alt="Donate to get Leaf Explorer Source Code" /></a>
 
-#### App Demo : [https://play.google.com/store/apps/details?id=com.leaf.explorer](https://play.google.com/store/apps/details?id=com.leaf.explorer)<br>
+#### Free Version App Demo : [https://play.google.com/store/apps/details?id=com.leaf.explorer](https://play.google.com/store/apps/details?id=com.leaf.explorer)<br>
 
 ### Join Telegram
 1. Get all Available updates of **Leaf Explorer Source Code** via Telegram Channel.
