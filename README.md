@@ -5,7 +5,7 @@
 
 Free Version : [V-1.11.30 {Download for Free}]()<br>
 
-New Version : [V-1.15.35 【Download Now】](https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/V-1.15.35.MD)<br> Coming Soon
+New Version : [V-1.15.35 【Coming Soon】](https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/V-1.15.35.MD)<br>
 
 
 ##### PayPal Clean Method [Donate]
