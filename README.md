@@ -7,7 +7,7 @@ Free Version : [V-1.11.30 {Download for Free}](https://github.com/Shiv-Shambhu/L
 
 #### Premium Version : [V-1.15.35 【Coming Soon in March】]()<br>
 
-#### Free Version App Demo : [https://play.google.com/store/apps/details?id=com.leaf.explorer](https://play.google.com/store/apps/details?id=com.leaf.explorer)<br>
+#### Free Version App Demo : [Download Now](https://play.google.com/store/apps/details?id=com.leaf.explorer)<br>
 
 
 ##### PayPal Clean Method [Donate]
