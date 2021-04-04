@@ -7,7 +7,7 @@ Free Version : [V-1.11.30 {Download for Free}](https://github.com/Shiv-Shambhu/L
 
 #### Premium Version : [V-1.11.35 【Buy Now】](https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Version/V-1.11.35.MD)<br>
 
-#### Free Version App Demo : [Download Now](https://github.com/Shiv-Shambhu/Leaf-Explorer/releases/tag/V-1.11.30-Free)<br>
+#### Free Version App Demo : [Download Now](https://github.com/Shiv-Shambhu/Leaf-Explorer/releases/tag/V-1.11.30-free)<br>
 
 ### Join Telegram
 1. Get all Available updates of **Leaf Explorer Source Code** via Telegram Channel.
