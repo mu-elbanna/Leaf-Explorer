@@ -16,19 +16,19 @@ Free Version : [V-1.11.30 {Download for Free}](https://github.com/Shiv-Shambhu/L
 
 
 ### Leaf Explorer screen (Free Version)
-| <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/home_page.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/PicsArt_12-28-05.22.30.jpg" width = "300"/> |
+| <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/home_page.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/PicsArt_12-28-05.22.30.jpg" width = "300"/> |
 |:---:|:---:|
 | Home | Send Files |
 
-| <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/send_file.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/receive.jpg" width = "300"/>|
+| <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/send_file.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/receive.jpg" width = "300"/>|
 |:---:|:---:|
 | Send Files | Receive Files |
 
-| <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/PicsArt_12-28-05.19.27.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/PicsArt_12-28-05.24.50.jpg" width = "300"/> |
+| <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/PicsArt_12-28-05.19.27.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/PicsArt_12-28-05.24.50.jpg" width = "300"/> |
 |:---:|:---:|
 | File Manager | Web Share |
 
-| <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/PicsArt_12-28-05.29.55.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/navigation_srawer.jpg" width = "300"/>|
+| <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/PicsArt_12-28-05.29.55.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/navigation_srawer.jpg" width = "300"/>|
 |:---:|:---:|
 | Send Files | Navigation |
 
