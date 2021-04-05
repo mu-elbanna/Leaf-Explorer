@@ -3,7 +3,7 @@
 
 ## Leaf Explorer - *In Action*
 
-Free Version : [V-1.11.30 {Download for Free}](https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Version/Leaf%20Explorer(Github-V-1.11.30).zip)<br>
+###### Free Version : [V-1.11.30 {Download for Free}](https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Version/Leaf%20Explorer(Github-V-1.11.30).zip)<br>
 
 #### Premium Version : [V-1.11.35 【Buy Now】](https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Version/V-1.11.35.MD)<br>
 
