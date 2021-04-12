@@ -2,7 +2,7 @@
 
 #### App Demo : [https://play.google.com/store/apps/details?id=com.leaf.explorer](https://play.google.com/store/apps/details?id=com.leaf.explorer)<br>
 
-## V-1.11.35 :- Premium Version
+## Features
 
 - [x] Supported Devices *Android Lollipop* to *Android 10(Q)* **And Above**.
 - [x] Standard File Manager.
