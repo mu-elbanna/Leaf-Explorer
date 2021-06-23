@@ -55,3 +55,9 @@
 <a href="http://paypal.me/premium813" target="_blank" title="Buy me a Coffee"><img width="150" style="border:0px;width:150px;display:block;margin:0 auto" src="https://github.com/mjbdl/Premium-SmartWebView/blob/master/app/donate-now-button-n-dim-300x162.jpg" border="0" alt="Donate to get Leaf Explorer Source Code" /></a>
 ##### UPI id :- leafexplorer-github@ybl 
      *Donate with UPI.*
+
+
+
+## License
+
+This app is licensed under GNU Public License version 2.0 or later version.
