@@ -1,13 +1,7 @@
-# Leaf-Explorer
+## Leaf-Explorer
 ##### Best Android File Manager With File Share and Text Editor.
 
-## Leaf Explorer - *In Action*
-
-###### Free Version : [V-1.11.30 {Download for Free}](https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Version/Leaf%20Explorer(Github-V-1.11.30).zip)<br>
-
-#### Premium Version : [V-1.15.40 【Buy Now】](https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Version/V-1.15.40.MD)<br>
-
-#### Free Version App Demo : [Download Now](https://github.com/Shiv-Shambhu/Leaf-Explorer/releases/tag/v-1.11.30)<br>
+#### App Demo : [https://play.google.com/store/apps/details?id=com.leaf.explorer](https://play.google.com/store/apps/details?id=com.leaf.explorer)<br>
 
 ### Join Telegram
 1. Get all Available updates of **Leaf Explorer Source Code** via Telegram Channel.
@@ -15,7 +9,7 @@
 ##### [Join Telegram channel](https://t.me/LeafExplorer)</br>
 
 
-### Leaf Explorer screen (Free Version)
+### Leaf Explorer screen
 | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/home_page.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/PicsArt_12-28-05.22.30.jpg" width = "300"/> |
 |:---:|:---:|
 | Home | Send Files |
@@ -33,7 +27,8 @@
 | Send Files | Navigation |
 
 
-## Features (Free Version)
+## Features
+
 - [x] Supported Devices *Android Lollipop* to *Android 10(Q)* **And Above**.
 - [x] Standard File Manager.
 - [x] File Share (like SHAREit).
@@ -45,6 +40,9 @@
 - [x] Delete Files/Folders.
 - [x] Rename Files/Folders.
 - [x] Text Editor.
+- [x] Music Player (with Notification and Popup player).
+- [x] Image Viewer.
+- [x] Recent File (in beta).
 
 
 #### Report your [issues](https://github.com/Shiv-Shambhu/Leaf-Explorer/issues) here.
