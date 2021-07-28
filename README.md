@@ -50,11 +50,10 @@
 #### Report your [issues](https://github.com/Shiv-Shambhu/Leaf-Explorer/issues) here.
 
 
+## Donation
+If this project help you reduce time to develop, you can give me a cup of coffee :)
 
-## Donate 💚
-You can support our work with a donation.
-
-[![Donate](https://github.com/mjbdl/Premium-SmartWebView/blob/master/app/donate-now-button-n-dim-300x162.jpg)](https://try-tolearn.blogspot.com/2021/07/donate.html?m=1)
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://try-tolearn.blogspot.com/2021/07/donate.html?m=1)
 
 ## License
 
