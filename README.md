@@ -54,8 +54,7 @@
 ## Donate 💚
 You can support our work with a donation.
 
-<a href="https://try-tolearn.blogspot.com/2021/07/donate.html?m=1" target="_blank" title="Buy me a Coffee"><img width="150" style="border:0px;width:150px;display:block;margin:0 auto" src="https://github.com/mjbdl/Premium-SmartWebView/blob/master/app/donate-now-button-n-dim-300x162.jpg" border="0" alt="Donate to get Leaf Explorer Source Code" /></a>
-
+[![Donate](https://github.com/mjbdl/Premium-SmartWebView/blob/master/app/donate-now-button-n-dim-300x162.jpg)](https://try-tolearn.blogspot.com/2021/07/donate.html?m=1)
 
 ## License
 
