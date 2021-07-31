@@ -24,7 +24,7 @@
 |:---:|:---:|
 | File Manager | Web Share |
 
-| <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/recent_image_video.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/navigation_srawer.jpg" width = "300"/>|
+| <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/recent_image_video.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/NearBy_Devices.jpg" width = "300"/>|
 |:---:|:---:|
 | Recent | P2P File Share |
 
