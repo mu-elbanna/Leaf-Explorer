@@ -16,17 +16,17 @@
 |:---:|:---:|
 | Home | Send Files |
 
-| <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/AddToTransfer.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/receive.jpg" width = "300"/>|
+| <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/managerP2P.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/receive.jpg" width = "300"/>|
 |:---:|:---:|
-| Add To Transfer | Receive Files |
+| P2P Manager | Receive Files |
 
 | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/file_manager.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/transfer_android_pc.jpg" width = "300"/> |
 |:---:|:---:|
 | File Manager | Web Share |
 
-| <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/recent_image_video.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/NearBy_Devices.jpg" width = "300"/>|
+| <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/recent_image_video.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/scannerP2P.jpg" width = "300"/>|
 |:---:|:---:|
-| Recent | P2P File Share |
+| Recent | P2P Scanner |
 
 
 ## Features
