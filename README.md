@@ -8,7 +8,7 @@
 ### Join Telegram
 1. Get all Available updates of **Leaf Explorer Source Code** via Telegram Channel.
 2. All Information About Leaf Explorer.
-##### [Join Telegram channel](https://t.me/LeafExplorer)</br>
+##### [Join Telegram channel](https://t.me/Shiv_Shambhu_Github)</br>
 
 
 ### Leaf Explorer screen
