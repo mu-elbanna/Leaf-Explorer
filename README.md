@@ -29,22 +29,25 @@
 | Recent | P2P Scanner |
 
 
-## Features
+## Main Features
 
-- [x] Supported Devices *Android Lollipop* to *Android 10(Q)* **And Above**.
 - [x] Standard File Manager.
 - [x] File Share (like SHAREit).
 - [x] File PC Share (Via Wi-Fi Connection with Browser).
-- [x] Search Files.
-- [x] Sort Files.
-- [x] Show/Hide Hidden files.
-- [x] Copy/Move/Paste Files.
-- [x] Delete Files/Folders.
-- [x] Rename Files/Folders.
 - [x] Text Editor.
 - [x] Music Player (with Notification and Popup player).
 - [x] Image Viewer.
 - [x] Recent File (in beta).
+
+### File Manager Features
+
+- [x] Search Files.
+- [x] Sort Files.
+- [x] Show/Hide Hidden files.
+- [x] Copy/Paste Files.
+- [x] Delete Files/Folders.
+- [x] Rename Files/Folders.
+
 
 
 #### Report your [issues](https://github.com/Shiv-Shambhu/Leaf-Explorer/issues) here.
