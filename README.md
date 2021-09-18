@@ -1,5 +1,5 @@
 ## Leaf-Explorer
-##### Best Android File Manager With File Share and Text Editor.
+##### Android File Manager With File Share (like SHAREit), Music player (Notification and Popup player) and Text Editor.
 
 #### App Demo : [https://play.google.com/store/apps/details?id=com.leaf.explorer](https://play.google.com/store/apps/details?id=com.leaf.explorer)
 ```
