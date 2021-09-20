@@ -14,21 +14,21 @@ Old Version :- v-1.15.50
 
 
 ### Leaf Explorer screen
-| <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/home.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/send.jpg" width = "300"/> |
+| <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/home_page.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/file_share.jpg" width = "300"/> |
 |:---:|:---:|
 | Home | Send Files |
 
-| <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/managerP2P.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/receive.jpg" width = "300"/>|
+| <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/receive.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/finding_nearby.jpg" width = "300"/>|
 |:---:|:---:|
-| P2P Manager | Receive Files |
+| P2P Network | P2P Scanner |
 
-| <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/file_manager.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/transfer_android_pc.jpg" width = "300"/> |
+| <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/file_manager.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/web_pc_share.jpg" width = "300"/> |
 |:---:|:---:|
-| File Manager | Web Share |
+| File Manager | Web/PC Share |
 
-| <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/recent_image_video.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/scannerP2P.jpg" width = "300"/>|
+| <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/file_receive.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/music_player.jpg" width = "300"/>|
 |:---:|:---:|
-| Recent | P2P Scanner |
+| File Receive | Music Player |
 
 
 ## Main Features
@@ -38,18 +38,8 @@ Old Version :- v-1.15.50
 - [x] File PC Share (Via Wi-Fi Connection with Browser).
 - [x] Text Editor.
 - [x] Music Player (with Notification and Popup player).
-- [x] Image Viewer.
 - [x] Recent File (in beta).
-
-### File Manager Features
-
-- [x] Search Files.
-- [x] Sort Files.
-- [x] Show/Hide Hidden files.
-- [x] Copy/Paste Files.
-- [x] Delete Files/Folders.
-- [x] Rename Files/Folders.
-
+- [ ] Image Viewer.
 
 
 #### Report your [issues](https://github.com/Shiv-Shambhu/Leaf-Explorer/issues) here.
