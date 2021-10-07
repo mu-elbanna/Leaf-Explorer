@@ -2,10 +2,11 @@
 ##### Android File Manager With File Share (like SHAREit), Music player (Notification and Popup player) and Text Editor.
 
 #### App Demo : [https://play.google.com/store/apps/details?id=com.leaf.explorer](https://play.google.com/store/apps/details?id=com.leaf.explorer)
-```
-Old Version :- v-1.15.50
-```
+
 #### V-1.16.60 : [Download Source code](https://github.com/Shiv-Shambhu/Leaf-Explorer/tree/main/Version)
+```
+New Version - 1.17.00 : Coming Soon
+```
 
 ### Join Telegram
 1. Get all Available updates of **Leaf Explorer Source Code** via Telegram Channel.
@@ -39,7 +40,6 @@ Old Version :- v-1.15.50
 - [x] Text Editor.
 - [x] Music Player (with Notification and Popup player).
 - [x] Recent File (in beta).
-- [ ] Image Viewer.
 
 
 #### Report your [issues](https://github.com/Shiv-Shambhu/Leaf-Explorer/issues) here.
