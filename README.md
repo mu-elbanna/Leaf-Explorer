@@ -36,9 +36,7 @@ Older Version - 1.16.60
 - [x] Standard File Manager.
 - [x] File Share (like SHAREit).
 - [x] File PC Share (Via Wi-Fi Connection with Browser).
-- [x] Text Editor.
 - [x] Music Player (with Notification and Popup player).
-- [x] Recent File (in beta).
 
 
 #### Report your [issues](https://github.com/Shiv-Shambhu/Leaf-Explorer/issues) here.
