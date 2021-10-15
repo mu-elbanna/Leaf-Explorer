@@ -26,7 +26,7 @@ Older Version - 1.16.60
 |:---:|:---:|
 | File Manager | Web/PC Share |
 
-| <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/file_receive.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/music_player.jpg" width = "300"/>|
+| <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/file_receive.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/leaf_music_player.jpg" width = "300"/>|
 |:---:|:---:|
 | File Receive | Music Player |
 
