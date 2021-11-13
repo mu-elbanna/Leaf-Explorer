@@ -1,10 +1,8 @@
 ## Leaf-Explorer
 Android File Manager With File Share (like SHAREit), Music player (Notification and Popup player) and Text Editor.
+#### App Demo : [Download apk](https://github.com/Shiv-Shambhu/Leaf-Explorer/tree/main/Version)
+#### New Version : [https://play.google.com/store/apps/details?id=com.leaf.explorer](https://play.google.com/store/apps/details?id=com.leaf.explorer)
 
-#### App Demo : [https://play.google.com/store/apps/details?id=com.leaf.explorer](https://play.google.com/store/apps/details?id=com.leaf.explorer)
-```
-Older Version - 1.17.60
-```
 #### V-1.18.00 : [Download Source code](https://github.com/Shiv-Shambhu/Leaf-Explorer/tree/main/Version)
 
 ### Join Telegram
