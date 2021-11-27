@@ -16,7 +16,17 @@ Send and receive files securely without the internet
 
 
 ### Leaf Explorer screen
-       Coming soon.....
+| <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/transfer_history.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/send_file.jpg" width = "300"/> |
+|:---:|:---:|
+| Transfer History | Send Files |
+
+| <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/receive_file.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/web_pc_share.jpg" width = "300"/> |
+|:---:|:---:|
+| File Receive | Web/PC Share |
+
+| <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/connect_device.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/leaf_music_player.jpg" width = "300"/>|
+|:---:|:---:|
+| Connect Devices | Music Player |
 
 ## Main Features
 
