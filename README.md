@@ -2,12 +2,11 @@
 
 Send and receive files securely without the internet
 
-#### App Demo : [Coming soon](https://play.google.com/store/apps/details?id=com.leaf.explorer)
-[<img src="assets/google-play-badge.png" width="230">](https://play.google.com/store/apps/details?id=com.leaf.explorer)
+#### App Demo : [Download Now](https://play.google.com/store/apps/details?id=com.leaf.explorer)
+[<img src="assets/google-play-badge.png" width="200">](https://play.google.com/store/apps/details?id=com.leaf.explorer)
 
 
-#### V-3.0.0 : [Coming soon](https://github.com/Shiv-Shambhu/Leaf-Explorer/tree/main/Version)
-#### Source Code : [old version](https://github.com/Shiv-Shambhu/Leaf-Explorer/tree/main/Version)
+#### V-3.0.0 : [Source code -> Coming soon](https://github.com/Shiv-Shambhu/Leaf-Explorer/tree/main/Version)
 
 
 ### Join Telegram
