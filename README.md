@@ -1,40 +1,36 @@
-## Leaf-Explorer
-Android File Manager With File Share (like SHAREit), Music player (Notification and Popup player) and Text Editor.
-#### App Demo : [Download apk](https://github.com/Shiv-Shambhu/Leaf-Explorer/tree/main/Version)
-#### New Version : [https://play.google.com/store/apps/details?id=com.leaf.explorer](https://play.google.com/store/apps/details?id=com.leaf.explorer)
+# Leaf-Explorer - File Sharing App for Android
 
-#### V-1.18.00 : [Download Source code](https://github.com/Shiv-Shambhu/Leaf-Explorer/tree/main/Version)
+Send and receive files securely without the internet
+
+#### App Demo : [Coming soon](https://play.google.com/store/apps/details?id=com.leaf.explorer)
+
+#### V-3.0.0 : [Coming soon](https://github.com/Shiv-Shambhu/Leaf-Explorer/tree/main/Version)
+#### Source Code : [old version](https://github.com/Shiv-Shambhu/Leaf-Explorer/tree/main/Version)
+
 
 ### Join Telegram
-1. Get all Available updates of **Leaf Explorer Source Code** via Telegram Channel.
+1. Get all Available updates of **Leaf Explorer** via Telegram Channel.
 2. All Information About Leaf Explorer.
 ##### [Join Telegram channel](https://t.me/Shiv_Shambhu_Github)</br>
 
 
 ### Leaf Explorer screen
-| <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/home_page.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/file_share.jpg" width = "300"/> |
-|:---:|:---:|
-| Home | Send Files |
-
-| <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/receive.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/finding_nearby.jpg" width = "300"/>|
-|:---:|:---:|
-| P2P Network | P2P Scanner |
-
-| <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/file_manager.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/web_pc_share.jpg" width = "300"/> |
-|:---:|:---:|
-| File Manager | Web/PC Share |
-
-| <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/file_receive.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/leaf_music_player.jpg" width = "300"/>|
-|:---:|:---:|
-| File Receive | Music Player |
-
+       Coming soon.....
 
 ## Main Features
 
-- [x] Standard File Manager.
 - [x] File Share (like SHAREit).
 - [x] File PC Share (Via Wi-Fi Connection with Browser).
-- [x] Music Player (with Notification and Popup player).
+- [ ] Music Player (Coming soon).
+
+## Features
+
+* Secure; connections to other clients are encrypted using TLSv1.2 
+* Share media files, apps, files & folders, plain texts, and URLs
+* Works without the internet; set up a hotspot and you are good to go
+* Share between multiple devices
+* Send and receive locally using a web browser
+* Uses **uprotocol**, and open content-sharing protocol
 
 
 #### Report your [issues](https://github.com/Shiv-Shambhu/Leaf-Explorer/issues) here.
