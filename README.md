@@ -3,6 +3,8 @@
 Send and receive files securely without the internet
 
 #### App Demo : [Coming soon](https://play.google.com/store/apps/details?id=com.leaf.explorer)
+[<img src="assets/google-play-badge.png" width="230">](https://play.google.com/store/apps/details?id=com.leaf.explorer)
+
 
 #### V-3.0.0 : [Coming soon](https://github.com/Shiv-Shambhu/Leaf-Explorer/tree/main/Version)
 #### Source Code : [old version](https://github.com/Shiv-Shambhu/Leaf-Explorer/tree/main/Version)
