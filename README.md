@@ -2,7 +2,7 @@
 
 Send and receive files securely without the internet
 
-#### App Demo : [Download Now](https://play.google.com/store/apps/details?id=com.leaf.explorer)
+#### App Demo : [v-3.0.0 - Download Now](https://play.google.com/store/apps/details?id=com.leaf.explorer)
 [<img src="assets/google-play-badge.png" width="200">](https://play.google.com/store/apps/details?id=com.leaf.explorer)
 
 
