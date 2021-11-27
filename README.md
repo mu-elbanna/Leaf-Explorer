@@ -26,7 +26,7 @@ Send and receive files securely without the internet
 
 | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/connect_device.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/leaf_music_player.jpg" width = "300"/>|
 |:---:|:---:|
-| Connect Devices | Music Player |
+| Connect Devices | Music Player(coming soon) |
 
 ## Main Features
 
