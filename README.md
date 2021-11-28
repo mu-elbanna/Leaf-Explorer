@@ -7,10 +7,10 @@ Send and receive files securely without the internet
 |Setup Hotspot using WiFi Direct|✔️|✖️|
 |Barcode scanner Connection problem in android 11|✔️|✖️|
 
-#### App Demo : [v-3.0.0 - Download Now](https://play.google.com/store/apps/details?id=com.leaf.explorer)
+### App Demo : [v-3.0.0 - Download Now](https://play.google.com/store/apps/details?id=com.leaf.explorer)
 [<img src="assets/google-play-badge.png" width="200">](https://play.google.com/store/apps/details?id=com.leaf.explorer)
 
-#### V-3.0.0 : [Source code -> Coming soon](https://github.com/Shiv-Shambhu/Leaf-Explorer/tree/main/Version)
+### Source Code (V-3.0.0) : Available in [Shiv Shambhu](https://play.google.com/store/apps/details?id=com.shiv.shambhu) App
 
 ### Join Telegram
 1. Get all Available updates of **Leaf Explorer** via Telegram Channel.
