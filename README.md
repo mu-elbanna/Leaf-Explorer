@@ -10,7 +10,7 @@ Send and receive files securely without the internet
 ### App Demo : [v-3.0.0 - Download Now](https://play.google.com/store/apps/details?id=com.leaf.explorer)
 [<img src="assets/google-play-badge.png" width="200">](https://play.google.com/store/apps/details?id=com.leaf.explorer)
 
-### Source Code (V-3.0.0) : Available in [Shiv Shambhu](https://play.google.com/store/apps/details?id=com.shiv.shambhu) App
+### Source Code (V-3.0.0) : [Download](https://github.com/Shiv-Shambhu/Leaf-Explorer/tree/main/Version)
 
 ### Join Telegram
 1. Get all Available updates of **Leaf Explorer** via Telegram Channel.
