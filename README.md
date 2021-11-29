@@ -5,7 +5,7 @@ Send and receive files securely without the internet
 |What's new/Fixes|Leaf Explorer (v-3.0.0)|Trebleshot (v-2.0.4)|
 |:---:|:---:|:---:|
 |Setup Hotspot using WiFi Direct|✔️|✖️|
-|Barcode scanner Connection problem in android 11|✔️|✖️|
+|Barcode scanner Connection problem in android 11|✔️(solved)|✖️|
 
 ### App Demo : [v-3.0.0 - Download Now](https://play.google.com/store/apps/details?id=com.leaf.explorer)
 [<img src="assets/google-play-badge.png" width="200">](https://play.google.com/store/apps/details?id=com.leaf.explorer)
