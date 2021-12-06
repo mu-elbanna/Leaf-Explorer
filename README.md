@@ -1,4 +1,4 @@
-# Leaf-Explorer - File Sharing App for Android
+# Leaf Explorer - File Sharing App for Android
 
 Send and receive files securely without the internet
 
