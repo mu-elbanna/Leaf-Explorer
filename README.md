@@ -2,8 +2,6 @@
 
 Send and receive files securely without the internet
 
-![Visitor Count](https://profile-counter.glitch.me/Mahadev-code/count.svg)
-
 |What's new/Fixes|Leaf Explorer (v-3.0.0)|Trebleshot (v-2.0.4)|
 |:---:|:---:|:---:|
 |Setup Hotspot using WiFi Direct|✔️|✖️|
@@ -67,4 +65,7 @@ This app is licensed under GNU Public License version 2.0 or later version.
 ## Credits
 This application uses Open Source components. You can find the source code of their open source projects along with license information below. We acknowledge and are grateful to these developers for their contributions to open source.
 ### [Credits Link](https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Project-Credit.md)
+
+
+![Visitor Count](https://profile-counter.glitch.me/Mahadev-code/count.svg)
 
