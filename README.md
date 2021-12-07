@@ -40,6 +40,8 @@ Send and receive files securely without the internet
 - [x] File PC Share (Via Wi-Fi Connection with Browser).
 - [ ] Music Player (Coming soon).
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahadev-code&label=Visitors&color=0e75b6&style=plastic" alt="mahadev-code" /> </p>
+
 ## Features
 
 * Secure; connections to other clients are encrypted using TLSv1.2 
@@ -65,7 +67,4 @@ This app is licensed under GNU Public License version 2.0 or later version.
 ## Credits
 This application uses Open Source components. You can find the source code of their open source projects along with license information below. We acknowledge and are grateful to these developers for their contributions to open source.
 ### [Credits Link](https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Project-Credit.md)
-
-
-![Visitor Count](https://profile-counter.glitch.me/Mahadev-code/count.svg)
 
