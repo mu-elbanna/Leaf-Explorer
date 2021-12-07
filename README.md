@@ -2,6 +2,8 @@
 
 Send and receive files securely without the internet
 
+![Visitor Count](https://profile-counter.glitch.me/Mahadev-code/count.svg)
+
 |What's new/Fixes|Leaf Explorer (v-3.0.0)|Trebleshot (v-2.0.4)|
 |:---:|:---:|:---:|
 |Setup Hotspot using WiFi Direct|✔️|✖️|
