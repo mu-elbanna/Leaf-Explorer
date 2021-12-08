@@ -59,7 +59,7 @@ Send and receive files securely without the internet
 #### Report your [issues](https://github.com/Shiv-Shambhu/Leaf-Explorer/issues) here.
 
 
-​##​ ​☕ Support 
+## Support ​☕
 Due to lack of support, unfortunately, it's difficult for us to keep supporting the project. If you like the app and want us to fix and improve it, please consider giving us a boost.
 ## Donation
 If this project help you reduce time to develop, you can give me a cup of coffee :)
