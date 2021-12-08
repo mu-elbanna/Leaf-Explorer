@@ -2,15 +2,16 @@
 
 Send and receive files securely without the internet
 
-|What's new/Fixes|Leaf Explorer (v-3.0.0)|Trebleshot (v-2.0.4)|
+|What's new/Fixes|Leaf Explorer (v-3.5.0)|Trebleshot (v-2.0.4)|
 |:---:|:---:|:---:|
 |Setup Hotspot using WiFi Direct|✔️|✖️|
 |Barcode scanner Connection problem in android 11|✔️(solved)|✖️|
+|Music Player|✔️|✖️|
 
-### App Demo : [v-3.0.0 - Download Now](https://play.google.com/store/apps/details?id=com.leaf.explorer)
-[<img src="assets/google-play-badge.png" width="200">](https://play.google.com/store/apps/details?id=com.leaf.explorer)
+### App Demo : [v-3.5.0 - Download Free](https://play.google.com/store/apps/details?id=com.leaf.explorer)
+[<img src="assets/google-play-badge.png" width="200">](https://play.google.com/store/apps/details?id=com.leaf.explorer.pro)
 
-### Source Code (V-3.0.0) : [Download](https://github.com/Shiv-Shambhu/Leaf-Explorer/tree/main/Version)
+### Source Code (V-3.5.0) : [Download](https://github.com/Shiv-Shambhu/Leaf-Explorer/tree/main/Version)
 
 ### Join Telegram
 1. Get all Available updates of **Leaf Explorer** via Telegram Channel.
@@ -29,7 +30,7 @@ Send and receive files securely without the internet
 
 | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/connect_device.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/leaf_music_player.jpg" width = "300"/>|
 |:---:|:---:|
-| Connect Devices | Music Player(coming soon) |
+| Connect Devices | Music Player |
 
 ### Web Interface
 [![Web Interface](https://github.com/trebleshot/assets/blob/main/screenshots/android/web1.png)](https://github.com/trebleshot/assets/blob/main/screenshots/android/web1.png)
@@ -38,19 +39,22 @@ Send and receive files securely without the internet
 
 - [x] File Share (like SHAREit).
 - [x] File PC Share (Via Wi-Fi Connection with Browser).
-- [ ] Music Player (Coming soon).
+- [x] Music Player.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahadev-code&label=Visitors&color=0e75b6&style=plastic" alt="mahadev-code" /> </p>
 
 ## Features
-
+#### File Transfer
 * Secure; connections to other clients are encrypted using TLSv1.2 
 * Share media files, apps, files & folders, plain texts, and URLs
 * Works without the internet; set up a hotspot and you are good to go
 * Share between multiple devices
 * Send and receive locally using a web browser
 * Uses **uprotocol**, and open content-sharing protocol
-
+#### Music Player
+* Minimal interface
+* Music organised by songs and folders;
+* Now playing, embedded covers, search, sorting...
 
 #### Report your [issues](https://github.com/Shiv-Shambhu/Leaf-Explorer/issues) here.
 
