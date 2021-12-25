@@ -9,7 +9,7 @@ Send and receive files securely without the internet
 |Music Player|✔️|✖️|
 
 ### App Demo : [v-3.5.0 - Download Free](https://play.google.com/store/apps/details?id=com.leaf.explorer)
-[<img src="assets/google-play-badge.png" width="200">](https://play.google.com/store/apps/details?id=com.leaf.explorer.pro)
+[<img src="assets/google-play-badge.png" width="200">](https://play.google.com/store/apps/details?id=com.leaf.explorer)
 
 ### Source Code (V-3.5.0) : [Download](https://github.com/Shiv-Shambhu/Leaf-Explorer/tree/main/Version)
 
