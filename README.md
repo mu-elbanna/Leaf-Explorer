@@ -46,7 +46,7 @@ Send and receive files securely without the internet
 - [x] File PC Share (Via Wi-Fi Connection with Browser).
 - [x] Music Player.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahadev-code&label=Visitors&color=0e75b6&style=plastic" alt="mahadev-code" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahadev-code&label=Count&color=0e75b6&style=plastic" alt="mahadev-code" /> </p>
 
 ## Features
 #### File Transfer
