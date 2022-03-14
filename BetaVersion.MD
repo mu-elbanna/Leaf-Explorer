@@ -1,6 +1,6 @@
 # Beta Version (coming soon)
 ## Leaf Explorer
-Leaf Explorer is a open-source, free and secure tool that helps you find file faster, manage files easily, and share them offline with others.
+Leaf Explorer is a open-source, free and secure tool that helps you find file faster, manage files easily, share them offline with others and play music offline.
 
 ### What's New
 - [x] File Manager.
