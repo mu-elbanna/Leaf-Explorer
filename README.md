@@ -8,8 +8,9 @@ Send and receive files securely without the internet
 |Barcode scanner Connection problem in android 11|✔️(solved)|✖️|
 |Music Player|✔️|✖️|
 
-|🌟Beta Version with new Features|
+|🌟Beta Version⭐|
 |:---:|
+|✨What's New :- File Manager|
 |[More info](https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/BetaVersion.MD)|
 
 ### App Demo : [v-3.8.1 - Download Free](https://play.google.com/store/apps/details?id=com.leaf.explorer)
