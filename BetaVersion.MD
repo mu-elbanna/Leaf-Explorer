@@ -5,8 +5,7 @@ Leaf Explorer is a open-source, free and secure tool that helps you find file fa
 ### What's New
 - [x] File Manager.
 
-### Demo Apk (beta)
-Available in [Telegram channel](https://t.me/Shiv_Shambhu_Github)
+#### Source Code & Demo Apk (beta) Available in [Telegram channel](https://t.me/Shiv_Shambhu_Github)
 
 |Get all Available updates of Leaf Explorer via Telegram Channel.|
 |:---:|
