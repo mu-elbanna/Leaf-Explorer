@@ -1,6 +1,6 @@
-# Leaf Explorer - File Sharing App for Android
+# Leaf Explorer - File Manager & File Sharing App for Android
 
-Send and receive files securely without the internet
+free and secure tool that helps you find file faster, manage files easily, share them offline with others and play music offline.
 
 |What's new/Fixes|Leaf Explorer (v-3.8.1)|Trebleshot (v-2.0.4)|
 |:---:|:---:|:---:|
@@ -10,10 +10,11 @@ Send and receive files securely without the internet
 
 |🌟Beta Version⭐|
 |:---:|
+|Version :- 3.9.0|
 |✨What's New :- File Manager|
 |[More info](https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/BetaVersion.MD)|
 
-### App Demo : [v-3.8.1 - Download Free](https://play.google.com/store/apps/details?id=com.leaf.explorer)
+### App Demo : [v-3.9.0 - Download Free](https://play.google.com/store/apps/details?id=com.leaf.explorer)
 [<img src="assets/google-play-badge.png" width="200">](https://play.google.com/store/apps/details?id=com.leaf.explorer)
 
 ### Source Code (V-3.8.1) : [Download](https://github.com/Shiv-Shambhu/Leaf-Explorer/tree/main/Version)
@@ -42,6 +43,7 @@ Send and receive files securely without the internet
 
 ## Main Features
 
+- [x] File Manager
 - [x] File Share (like SHAREit).
 - [x] File PC Share (Via Wi-Fi Connection with Browser).
 - [x] Music Player.
@@ -49,6 +51,8 @@ Send and receive files securely without the internet
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahadev-code&label=Count&color=0e75b6&style=plastic" alt="mahadev-code" /> </p>
 
 ## Features
+#### File Manager
+* 
 #### File Transfer
 * Secure; connections to other clients are encrypted using TLSv1.2 
 * Share media files, apps, files & folders, plain texts, and URLs
