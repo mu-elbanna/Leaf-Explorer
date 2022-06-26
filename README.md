@@ -2,22 +2,22 @@
 
 free and secure tool that helps you find file faster, manage files easily, share them offline with others and play music offline.
 
-|What's new/Fixes|Leaf Explorer (v-3.8.1)|Trebleshot (v-2.0.4)|
+|What's new/Fixes|Leaf Explorer (v-4.0.1)|Trebleshot (v-2.0.4)|
 |:---:|:---:|:---:|
+|File Manager|✔️|✖️|
 |Setup Hotspot using WiFi Direct|✔️|✖️|
 |Barcode scanner Connection problem in android 11|✔️(solved)|✖️|
 |Music Player|✔️|✖️|
 
-|🌟Beta Version⭐|
+|🌟Beta/Older Version Source Code⭐|
 |:---:|
-|Version :- 3.9.0|
-|✨What's New :- File Manager|
+|Version :- 4.0.2(coming soon)/3.9.0-beta/1.18.00/&Others|
 |[More info](https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/BetaVersion.MD)|
 
-### App Demo : [v-3.9.0 - Download Free](https://play.google.com/store/apps/details?id=com.leaf.explorer)
+### App Demo : [v-4.0.1 - Download Free](https://play.google.com/store/apps/details?id=com.leaf.explorer)
 [<img src="assets/google-play-badge.png" width="200">](https://play.google.com/store/apps/details?id=com.leaf.explorer)
 
-### Source Code (V-3.8.1) : [Download](https://github.com/Shiv-Shambhu/Leaf-Explorer/tree/main/Version)
+### Source Code (V-4.0.1) : [Download](https://github.com/Shiv-Shambhu/Leaf-Explorer/tree/main/Version)
 
 ### Join Telegram
 1. Get all Available updates of **Leaf Explorer** via Telegram Channel.
@@ -52,7 +52,9 @@ free and secure tool that helps you find file faster, manage files easily, share
 
 ## Features
 #### File Manager
-* 
+* You can manage all files and folders on both your internal storage and external storage.
+* Basic features like cut, copy, delete, rename, share, etc. easily accessible
+
 #### File Transfer
 * Secure; connections to other clients are encrypted using TLSv1.2 
 * Share media files, apps, files & folders, plain texts, and URLs
@@ -60,6 +62,7 @@ free and secure tool that helps you find file faster, manage files easily, share
 * Share between multiple devices
 * Send and receive locally using a web browser
 * Uses **uprotocol**, and open content-sharing protocol
+
 #### Music Player
 * Minimal interface
 * Music organised by songs and folders;
