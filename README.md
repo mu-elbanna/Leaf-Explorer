@@ -1,8 +1,8 @@
-# Leaf Explorer - File Manager & File Sharing App for Android
+# Leaf Explorer - File Manager, File Sharing & Music Player App for Android
 
 free and secure tool that helps you find file faster, manage files easily, share them offline with others and play music offline.
 
-|What's new/Fixes|Leaf Explorer (v-4.0.1)|Trebleshot (v-2.0.4)|
+|What's new/Fixes|Leaf Explorer (v-4.0.2)|Trebleshot (v-2.0.4)|
 |:---:|:---:|:---:|
 |File Manager|✔️|✖️|
 |Setup Hotspot using WiFi Direct|✔️|✖️|
@@ -11,13 +11,13 @@ free and secure tool that helps you find file faster, manage files easily, share
 
 |🌟Beta/Older Version Source Code⭐|
 |:---:|
-|Version :- 4.0.2(coming soon)/3.9.0-beta/1.18.00/&Others|
+|Version :- 4.0.3(coming soon)/4.0.1/3.9.0-beta/1.18.00/&Others|
 |[More info](https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/BetaVersion.MD)|
 
-### App Demo : [v-4.0.1 - Download Free](https://play.google.com/store/apps/details?id=com.leaf.explorer)
+### App Demo : [v-4.0.2 - Download Free](https://play.google.com/store/apps/details?id=com.leaf.explorer)
 [<img src="assets/google-play-badge.png" width="200">](https://play.google.com/store/apps/details?id=com.leaf.explorer)
 
-### Source Code (V-4.0.1) : [Download](https://github.com/Shiv-Shambhu/Leaf-Explorer/tree/main/Version)
+### Source Code (V-4.0.2) : [Download](https://github.com/Shiv-Shambhu/Leaf-Explorer)
 
 ### Join Telegram
 1. Get all Available updates of **Leaf Explorer** via Telegram Channel.
@@ -54,6 +54,7 @@ free and secure tool that helps you find file faster, manage files easily, share
 #### File Manager
 * You can manage all files and folders on both your internal storage and external storage.
 * Basic features like cut, copy, delete, rename, share, etc. easily accessible
+* Archive support: View, extract and create common compressed files.
 
 #### File Transfer
 * Secure; connections to other clients are encrypted using TLSv1.2 
