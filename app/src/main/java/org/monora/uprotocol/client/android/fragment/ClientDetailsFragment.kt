@@ -87,7 +87,7 @@ class ClientDetailsViewModel @AssistedInject internal constructor(
         private val client: UClient,
     ) : ViewModelProvider.Factory {
         @Suppress("UNCHECKED_CAST")
-        override fun <T : ViewModel?> create(modelClass: Class<T>): T {
+        override fun <T : ViewModel> create(modelClass: Class<T>): T {
             check(modelClass.isAssignableFrom(ClientDetailsViewModel::class.java)) {
                 "Unknown type of view model requested"
             }

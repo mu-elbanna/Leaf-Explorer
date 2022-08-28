@@ -129,7 +129,7 @@ class WebTransferDetailsViewModel @AssistedInject internal constructor(
         private val transfer: WebTransfer,
     ) : ViewModelProvider.Factory {
         @Suppress("UNCHECKED_CAST")
-        override fun <T : ViewModel?> create(modelClass: Class<T>): T {
+        override fun <T : ViewModel> create(modelClass: Class<T>): T {
             check(modelClass.isAssignableFrom(WebTransferDetailsViewModel::class.java)) {
                 "Requested unknown view model type"
             }

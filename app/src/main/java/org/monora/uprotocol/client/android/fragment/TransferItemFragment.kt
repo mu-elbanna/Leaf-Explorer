@@ -141,7 +141,7 @@ class ItemViewModel @AssistedInject internal constructor(
         private val transfer: Transfer,
     ) : ViewModelProvider.Factory {
         @Suppress("UNCHECKED_CAST")
-        override fun <T : ViewModel?> create(modelClass: Class<T>): T {
+        override fun <T : ViewModel> create(modelClass: Class<T>): T {
             check(modelClass.isAssignableFrom(ItemViewModel::class.java)) {
                 "Unknown type of view model was requested"
             }

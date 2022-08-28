@@ -391,6 +391,7 @@ class NetworkManagerFragment : Fragment(R.layout.layout_network_manager) {
                 text2.text = null
                 text3.text = null
             }
+            else -> {}
         }
         containerText1.visibility = if (text1.length() > 0) View.VISIBLE else View.GONE
         containerText2.visibility = if (text2.length() > 0) View.VISIBLE else View.GONE

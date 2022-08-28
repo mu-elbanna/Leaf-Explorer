@@ -67,10 +67,18 @@ class ResetPreferencesFragment : DialogFragment() {
             .setMessage(R.string.preferences_reset_notice)
             .setNegativeButton(R.string.cancel, null)
             .setPositiveButton(R.string.proceed) { _: DialogInterface?, _: Int ->
-                PreferenceManager.getDefaultSharedPreferences(context).edit {
-                    clear()
+                context?.let {
+                    PreferenceManager.getDefaultSharedPreferences(it).edit {
+                        clear()
+                    }
                 }
-                PreferenceManager.setDefaultValues(context, R.xml.preferences_defaults_main, true)
+                context?.let {
+                    PreferenceManager.setDefaultValues(
+                        it,
+                        R.xml.preferences_defaults_main,
+                        true
+                    )
+                }
 
                 activity?.finish()
             }

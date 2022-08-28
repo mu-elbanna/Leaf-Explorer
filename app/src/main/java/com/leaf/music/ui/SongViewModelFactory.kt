@@ -18,7 +18,7 @@ class SongViewModelFactory(private val repository: SongRepository) :
 @Suppress("UNCHECKED_CAST")
 class SharingModelFactory(private val context: Context, private val selectionRepository: SelectionRepository) :
     ViewModelProvider.Factory {
-    override fun <T : ViewModel?> create(modelClass: Class<T>): T {
+    override fun <T : ViewModel> create(modelClass: Class<T>): T {
         return SharingSelectionViewModel(context, selectionRepository) as T
     }
 }
