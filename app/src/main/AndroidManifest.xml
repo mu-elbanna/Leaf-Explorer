@@ -58,6 +58,7 @@
             android:name="org.monora.uprotocol.client.android.activity.HomeActivity"
             android:label="@string/app_name"
             android:launchMode="singleTask"
+            android:exported="true"
             android:theme="@style/Theme.TrebleShot.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -110,7 +111,8 @@
             android:enabled="true" />
         <receiver
             android:name="com.leaf.music.receivers.NotificationActionBroadcastReceiver"
-            android:enabled="true">
+            android:enabled="true"
+            android:exported="true">
             <intent-filter>
                 <action android:name="action previous" />
                 <action android:name="action play pause" />
@@ -136,6 +138,7 @@
 
         <activity
             android:name="org.monora.uprotocol.client.android.activity.SharingActivity"
+            android:exported="true"
             android:label="@string/app_name">
             <intent-filter>
                 <action android:name="android.intent.action.SEND" />
@@ -195,6 +198,7 @@
             android:name="org.monora.uprotocol.client.android.service.TogglingTileService"
             android:icon="@drawable/ic_trebleshot"
             android:label="@string/run_in_background"
+            android:exported="true"
             android:permission="android.permission.BIND_QUICK_SETTINGS_TILE">
             <intent-filter>
                 <action android:name="android.service.quicksettings.action.QS_TILE" />
