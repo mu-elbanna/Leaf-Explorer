@@ -26,12 +26,7 @@ import android.graphics.Canvas
 import android.graphics.drawable.BitmapDrawable
 import android.net.Uri
 import android.os.Build
-import com.yanzhenjie.andserver.annotation.Controller
-import com.yanzhenjie.andserver.annotation.GetMapping
-import com.yanzhenjie.andserver.annotation.PathVariable
-import com.yanzhenjie.andserver.annotation.PostMapping
-import com.yanzhenjie.andserver.annotation.RequestParam
-import com.yanzhenjie.andserver.annotation.ResponseBody
+import com.yanzhenjie.andserver.annotation.*
 import com.yanzhenjie.andserver.framework.body.StreamBody
 import com.yanzhenjie.andserver.http.multipart.MultipartFile
 import com.yanzhenjie.andserver.util.MediaType
@@ -40,11 +35,7 @@ import kotlinx.coroutines.runBlocking
 import org.monora.uprotocol.client.android.GlideApp
 import org.monora.uprotocol.client.android.R
 import org.monora.uprotocol.client.android.activity.HomeActivity
-import org.monora.uprotocol.client.android.content.App
-import org.monora.uprotocol.client.android.content.Image
-import org.monora.uprotocol.client.android.content.Song
-import org.monora.uprotocol.client.android.content.Video
-import org.monora.uprotocol.client.android.content.scan
+import org.monora.uprotocol.client.android.content.*
 import org.monora.uprotocol.client.android.database.model.UTransferItem
 import org.monora.uprotocol.client.android.database.model.WebTransfer
 import org.monora.uprotocol.client.android.model.FileModel
@@ -173,6 +164,8 @@ class SharingController {
                                 transfer.listId.hashCode() + Notifications.REQUEST_CODE_NEUTRAL,
                                 transferDetail,
                                 PendingIntent.FLAG_UPDATE_CURRENT
+                                        or PendingIntent.FLAG_IMMUTABLE
+//        or PendingIntent.FLAG_MUTABLE
                             )
                         )
                     }

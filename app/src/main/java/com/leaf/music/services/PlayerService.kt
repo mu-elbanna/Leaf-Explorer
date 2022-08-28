@@ -9,12 +9,10 @@ import android.content.ContentUris
 import android.content.Context
 import android.content.Intent
 import android.content.SharedPreferences
-import android.graphics.BitmapFactory
 import android.media.AudioAttributes
 import android.media.AudioFocusRequest
 import android.media.AudioManager
 import android.media.MediaPlayer
-import android.net.Uri
 import android.os.Binder
 import android.os.Build
 import android.os.IBinder
@@ -29,10 +27,8 @@ import androidx.annotation.RequiresApi
 import androidx.core.content.ContextCompat
 import androidx.core.graphics.drawable.toBitmap
 import androidx.media.app.NotificationCompat
-import org.monora.uprotocol.client.android.content.Song
-import com.leaf.music.receivers.NotificationActionBroadcastReceiver
-import org.monora.uprotocol.client.android.activity.MusicActivity
 import com.leaf.music.helper.MusicLibraryHelper
+import com.leaf.music.receivers.NotificationActionBroadcastReceiver
 import com.leaf.music.util.Constants.CURRENT_SONG_DURATION_KEY
 import com.leaf.music.util.Constants.NOTIFICATION_CHANNEL_ID
 import com.leaf.music.util.Constants.NOTIFICATION_CHANNEL_NAME
@@ -44,6 +40,8 @@ import com.leaf.music.util.SeekCompletionNotifier
 import com.leaf.music.util.SharedPreferenceUtil
 import com.leaf.music.util.SongChangeNotifier
 import org.monora.uprotocol.client.android.R
+import org.monora.uprotocol.client.android.activity.MusicActivity
+import org.monora.uprotocol.client.android.content.Song
 import java.io.IOException
 
 //Actions for notification action buttons
@@ -512,25 +510,41 @@ class PlayerService : Service(), MediaPlayer.OnCompletionListener, MediaPlayer.O
         val mainIntent = Intent(this, MusicActivity::class.java).also {
             it.action = ACTION_MAIN
         }
-        val mainPendingIntent = PendingIntent.getActivity(this, 0, mainIntent, 0)
+        val mainPendingIntent = PendingIntent.getActivity(
+            this, 0, mainIntent, 0
+                    or PendingIntent.FLAG_IMMUTABLE
+//        or PendingIntent.FLAG_MUTABLE
+        )
 
         val previousIntent = Intent(this, NotificationActionBroadcastReceiver::class.java).also {
             it.action = ACTION_PREVIOUS
         }
         val previousPendingIntent =
-            PendingIntent.getBroadcast(this, 0, previousIntent, PendingIntent.FLAG_UPDATE_CURRENT)
+            PendingIntent.getBroadcast(
+                this, 0, previousIntent, PendingIntent.FLAG_UPDATE_CURRENT
+                        or PendingIntent.FLAG_IMMUTABLE
+//        or PendingIntent.FLAG_MUTABLE
+            )
 
         val playPauseIntent = Intent(this, NotificationActionBroadcastReceiver::class.java).also {
             it.action = ACTION_PLAY_PAUSE
         }
         val playPausePendingIntent =
-            PendingIntent.getBroadcast(this, 0, playPauseIntent, PendingIntent.FLAG_UPDATE_CURRENT)
+            PendingIntent.getBroadcast(
+                this, 0, playPauseIntent, PendingIntent.FLAG_UPDATE_CURRENT
+                        or PendingIntent.FLAG_IMMUTABLE
+//        or PendingIntent.FLAG_MUTABLE
+            )
 
         val nextIntent = Intent(this, NotificationActionBroadcastReceiver::class.java).also {
             it.action = ACTION_NEXT
         }
         val nextPendingIntent =
-            PendingIntent.getBroadcast(this, 0, nextIntent, PendingIntent.FLAG_UPDATE_CURRENT)
+            PendingIntent.getBroadcast(
+                this, 0, nextIntent, PendingIntent.FLAG_UPDATE_CURRENT
+                        or PendingIntent.FLAG_IMMUTABLE
+//        or PendingIntent.FLAG_MUTABLE
+            )
 
         var bitmap = MusicLibraryHelper.getThumbnail(this.applicationContext, currentSong!!.albumUri.toString())
         if (bitmap == null) {

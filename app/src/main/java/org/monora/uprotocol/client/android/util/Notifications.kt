@@ -62,14 +62,21 @@ class Notifications(val backend: NotificationBackend) {
         val sendIntent: PendingIntent = PendingIntent.getActivity(
             context,
             ID_BG_SERVICE + 1,
-            Intent(context, ContentBrowserActivity::class.java).addFlags(Intent.FLAG_ACTIVITY_NEW_TASK),
+            Intent(
+                context,
+                ContentBrowserActivity::class.java
+            ).addFlags(Intent.FLAG_ACTIVITY_NEW_TASK),
             PendingIntent.FLAG_UPDATE_CURRENT
+                    or PendingIntent.FLAG_IMMUTABLE
+//        or PendingIntent.FLAG_MUTABLE
         )
         val receiveIntent: PendingIntent = PendingIntent.getActivity(
             context,
             ID_BG_SERVICE + 2,
             Intent(context, HomeActivity::class.java).addFlags(Intent.FLAG_ACTIVITY_NEW_TASK),
             PendingIntent.FLAG_UPDATE_CURRENT
+                    or PendingIntent.FLAG_IMMUTABLE
+//        or PendingIntent.FLAG_MUTABLE
         )
         val exitAction = NotificationCompat.Action(
             R.drawable.ic_close_white_24dp_static, context.getString(R.string.exit),
@@ -78,6 +85,8 @@ class Notifications(val backend: NotificationBackend) {
                 ID_BG_SERVICE + 3,
                 Intent(context, BackgroundService::class.java).setAction(ACTION_STOP_ALL),
                 PendingIntent.FLAG_UPDATE_CURRENT
+                        or PendingIntent.FLAG_IMMUTABLE
+//        or PendingIntent.FLAG_MUTABLE
             )
         )
         val homeIntent = PendingIntent.getActivity(
@@ -85,6 +94,8 @@ class Notifications(val backend: NotificationBackend) {
             ID_BG_SERVICE + 4,
             Intent(context, HomeActivity::class.java).addFlags(Intent.FLAG_ACTIVITY_SINGLE_TOP),
             PendingIntent.FLAG_UPDATE_CURRENT
+                    or PendingIntent.FLAG_IMMUTABLE
+//        or PendingIntent.FLAG_MUTABLE
         )
         notification.setSmallIcon(R.drawable.ic_trebleshot_rounded_white_24dp_static)
             .setContentTitle(context.getString(R.string.service_running_notice))
@@ -109,9 +120,13 @@ class Notifications(val backend: NotificationBackend) {
             .putExtra(BgBroadcastReceiver.EXTRA_ACCEPTED, false)
         val positiveIntent: PendingIntent = PendingIntent.getBroadcast(
             context, uidHash + REQUEST_CODE_ACCEPT, acceptIntent, PendingIntent.FLAG_UPDATE_CURRENT
+                    or PendingIntent.FLAG_IMMUTABLE
+//        or PendingIntent.FLAG_MUTABLE
         )
         val negativeIntent: PendingIntent = PendingIntent.getBroadcast(
             context, uidHash + REQUEST_CODE_REJECT, rejectIntent, PendingIntent.FLAG_UPDATE_CURRENT
+                    or PendingIntent.FLAG_IMMUTABLE
+//        or PendingIntent.FLAG_MUTABLE
         )
         val contentText = context.getString(R.string.credentials_mismatch_notice, client.clientNickname)
 
@@ -123,8 +138,13 @@ class Notifications(val backend: NotificationBackend) {
                 PendingIntent.getActivity(
                     context,
                     uidHash + REQUEST_CODE_NEUTRAL,
-                    Intent(context, HomeActivity::class.java).addFlags(Intent.FLAG_ACTIVITY_SINGLE_TOP),
+                    Intent(
+                        context,
+                        HomeActivity::class.java
+                    ).addFlags(Intent.FLAG_ACTIVITY_SINGLE_TOP),
                     PendingIntent.FLAG_UPDATE_CURRENT
+                            or PendingIntent.FLAG_IMMUTABLE
+//        or PendingIntent.FLAG_MUTABLE
                 )
             )
             .setDefaults(backend.notificationSettings)
@@ -162,9 +182,13 @@ class Notifications(val backend: NotificationBackend) {
         }
         val positiveIntent: PendingIntent = PendingIntent.getBroadcast(
             context, hash + REQUEST_CODE_ACCEPT, acceptIntent, PendingIntent.FLAG_UPDATE_CURRENT
+                    or PendingIntent.FLAG_IMMUTABLE
+//        or PendingIntent.FLAG_MUTABLE
         )
         val negativeIntent: PendingIntent = PendingIntent.getBroadcast(
             context, hash + REQUEST_CODE_REJECT, rejectIntent, PendingIntent.FLAG_UPDATE_CURRENT
+                    or PendingIntent.FLAG_IMMUTABLE
+//        or PendingIntent.FLAG_MUTABLE
         )
         notification.setSmallIcon(android.R.drawable.stat_sys_download_done)
             .setContentTitle(context.getString(R.string.receive_file_question))
@@ -172,7 +196,12 @@ class Notifications(val backend: NotificationBackend) {
             .setContentInfo(client.clientNickname)
             .setContentIntent(
                 PendingIntent.getActivity(
-                    context, hash + REQUEST_CODE_NEUTRAL, transferDetail, PendingIntent.FLAG_UPDATE_CURRENT
+                    context,
+                    hash + REQUEST_CODE_NEUTRAL,
+                    transferDetail,
+                    PendingIntent.FLAG_UPDATE_CURRENT
+                            or PendingIntent.FLAG_IMMUTABLE
+//        or PendingIntent.FLAG_MUTABLE
                 )
             )
             .setDefaults(backend.notificationSettings)
@@ -214,6 +243,8 @@ class Notifications(val backend: NotificationBackend) {
                     item.id + REQUEST_CODE_NEUTRAL,
                     activityIntent,
                     PendingIntent.FLAG_UPDATE_CURRENT
+                            or PendingIntent.FLAG_IMMUTABLE
+//        or PendingIntent.FLAG_MUTABLE
                 )
             )
             .setDefaults(backend.notificationSettings)
@@ -221,7 +252,12 @@ class Notifications(val backend: NotificationBackend) {
                 copyIcon,
                 context.getString(R.string.copy_to_clipboard),
                 PendingIntent.getBroadcast(
-                    context, item.id + REQUEST_CODE_ACCEPT, copyIntent, PendingIntent.FLAG_UPDATE_CURRENT
+                    context,
+                    item.id + REQUEST_CODE_ACCEPT,
+                    copyIntent,
+                    PendingIntent.FLAG_UPDATE_CURRENT
+                            or PendingIntent.FLAG_IMMUTABLE
+//        or PendingIntent.FLAG_MUTABLE
                 )
             )
             .setTicker(context.getString(R.string.receive_text_summary_success))
@@ -248,6 +284,8 @@ class Notifications(val backend: NotificationBackend) {
                     transferParams.transfer.id.toInt() + REQUEST_CODE_NEUTRAL,
                     transferDetail,
                     PendingIntent.FLAG_UPDATE_CURRENT
+                            or PendingIntent.FLAG_IMMUTABLE
+//        or PendingIntent.FLAG_MUTABLE
                 )
             )
             .setContentText(
@@ -279,8 +317,13 @@ class Notifications(val backend: NotificationBackend) {
                 PendingIntent.getBroadcast(
                     context,
                     ID_BG_SERVICE + 2,
-                    Intent(context, BgBroadcastReceiver::class.java).setAction(ACTION_STOP_ALL_TASKS),
+                    Intent(
+                        context,
+                        BgBroadcastReceiver::class.java
+                    ).setAction(ACTION_STOP_ALL_TASKS),
                     PendingIntent.FLAG_UPDATE_CURRENT
+                            or PendingIntent.FLAG_IMMUTABLE
+//        or PendingIntent.FLAG_MUTABLE
                 )
             )
             val homeIntent = PendingIntent.getActivity(
@@ -288,6 +331,8 @@ class Notifications(val backend: NotificationBackend) {
                 ID_BG_SERVICE + 3,
                 Intent(context, HomeActivity::class.java).addFlags(Intent.FLAG_ACTIVITY_SINGLE_TOP),
                 PendingIntent.FLAG_UPDATE_CURRENT
+                        or PendingIntent.FLAG_IMMUTABLE
+//        or PendingIntent.FLAG_MUTABLE
             )
 
             it.setSmallIcon(R.drawable.ic_compare_arrows_white_24dp_static)
@@ -354,6 +399,8 @@ class Notifications(val backend: NotificationBackend) {
             ID_BG_SERVICE + 1,
             Intent(context, HomeActivity::class.java),
             PendingIntent.FLAG_UPDATE_CURRENT
+                    or PendingIntent.FLAG_IMMUTABLE
+//        or PendingIntent.FLAG_MUTABLE
         )
         notification
             .setSmallIcon(android.R.drawable.stat_sys_download)

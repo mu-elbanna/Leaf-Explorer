@@ -63,7 +63,10 @@ public class MyForeGroundService extends Service {
         Log.d(TAG_FOREGROUND_SERVICE, "Start foreground service.");
         // Create notification default intent.
         Intent intent = new Intent();
-        PendingIntent pendingIntent = PendingIntent.getActivity(this, 0, intent, 0);
+        PendingIntent pendingIntent = PendingIntent.getActivity(this, 0, intent, 0
+                        | PendingIntent.FLAG_IMMUTABLE
+//        | PendingIntent.FLAG_MUTABLE
+        );
         // Create notification builder.
         NotificationCompat.Builder builder = new NotificationCompat.Builder(this);
         // Make notification show big text.
@@ -83,13 +86,19 @@ public class MyForeGroundService extends Service {
         // Add Play button intent in notification.
         Intent playIntent = new Intent(this, MyForeGroundService.class);
         playIntent.setAction(ACTION_PLAY);
-        PendingIntent pendingPlayIntent = PendingIntent.getService(this, 0, playIntent, 0);
+        PendingIntent pendingPlayIntent = PendingIntent.getService(this, 0, playIntent, 0
+                        | PendingIntent.FLAG_IMMUTABLE
+//        | PendingIntent.FLAG_MUTABLE
+        );
         NotificationCompat.Action playAction = new NotificationCompat.Action(android.R.drawable.ic_media_play, "Play", pendingPlayIntent);
         builder.addAction(playAction);
         // Add Pause button intent in notification.
         Intent pauseIntent = new Intent(this, MyForeGroundService.class);
         pauseIntent.setAction(ACTION_PAUSE);
-        PendingIntent pendingPrevIntent = PendingIntent.getService(this, 0, pauseIntent, 0);
+        PendingIntent pendingPrevIntent = PendingIntent.getService(this, 0, pauseIntent, 0
+                        | PendingIntent.FLAG_IMMUTABLE
+//        | PendingIntent.FLAG_MUTABLE
+        );
         NotificationCompat.Action prevAction = new NotificationCompat.Action(android.R.drawable.ic_media_pause, "Pause", pendingPrevIntent);
         builder.addAction(prevAction);
         // Build the notification.

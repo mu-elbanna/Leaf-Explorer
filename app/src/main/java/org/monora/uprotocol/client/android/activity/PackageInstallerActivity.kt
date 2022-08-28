@@ -200,7 +200,11 @@ class PackageInstallerViewModel @AssistedInject constructor(
 
                         val intent = Intent(context, PackageInstallerActivity::class.java)
                             .setAction(PackageInstallerActivity.PACKAGE_INSTALLED_ACTION)
-                        val pendingIntent = PendingIntent.getActivity(context, 0, intent, 0)
+                        val pendingIntent = PendingIntent.getActivity(
+                            context, 0, intent, 0
+                                    or PendingIntent.FLAG_IMMUTABLE
+//        or PendingIntent.FLAG_MUTABLE
+                        )
                         val statusReceiver = pendingIntent.intentSender
 
                         session.commit(statusReceiver)
@@ -278,7 +282,7 @@ class PackageInstallerViewModel @AssistedInject constructor(
         private val uri: Uri,
     ) : ViewModelProvider.Factory {
         @Suppress("UNCHECKED_CAST")
-        override fun <T : ViewModel?> create(modelClass: Class<T>): T {
+        override fun <T : ViewModel> create(modelClass: Class<T>): T {
             check(modelClass.isAssignableFrom(PackageInstallerViewModel::class.java)) {
                 "Requested unknown view model type"
             }
